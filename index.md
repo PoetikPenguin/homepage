@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PoetikPenguin/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![poetik_logo](https://user-images.githubusercontent.com/126121/165751900-b2f66b50-fcc2-4587-9a9b-4903a6e3d6be.jpeg)
+# PoetikPenguin, LDA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What we do
+##  DevOps, SRE and Sysadmin consulting
+We specialise in providing high quality consulting in the areas of DevOps, SRE, Sysadmin and Cloud solutions; we have years of experience and we have worked with the biggest companies in the field. If you have the need for top level engineers that will unblock your next Cloud project, let's talk
 
-### Markdown
+## Marketing and Digital Marketing consulting
+With years of experience in the Marketing field, we provide consulting services for all areas of Marketing with big focus on Digital and we provide a complete marketing packages for travel and hospitality businesses. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Contacts
+## Please reach out to us via
 
-- Bulleted
-- List
+info at poetikpenguin dot com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PoetikPenguin/homepage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
